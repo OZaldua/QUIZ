@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="ShowXmlQuestions.xsl"?>
+<assessmentItems>
+  <assessmentItem author="rosa.arruabarrena@ehu.es" subject="Mikologia">
+    <itemBody>
+      <p>Zein Amanita da jangarria?</p>
+    </itemBody>
+    <correctResponse>
+      <response>Caesarea</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response>Phalloides</response>
+      <response>Muscaria</response>
+      <response>Virosa</response>
+    </incorrectResponses>
+  </assessmentItem>
+  <assessmentItem author="mafalda001@ikasle.ehu.eus" subject="GIH/ODS">
+    <itemBody>
+      <p>Zer informatika enpresak eskaintzen du hezkuntza, desberdintasunak arintzeko materialak eskainiz?</p>
+    </itemBody>
+    <correctResponse>
+      <response>Google</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response>Facebook</response>
+      <response>Twiter</response>
+      <response>Microsoft</response>
+    </incorrectResponses>
+  </assessmentItem>
+  <assessmentItem author="ozaldua006@ikasle.ehu.eus" subject="hollywood">
+    <itemBody>
+      <p>Nor da aktore hau?</p>
+    </itemBody>
+    <correctResponse>
+      <response>Tom Holland</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response>Jeremy Irvine</response>
+      <response>Tom Hiddleston</response>
+      <response>Chris Hemsworth</response>
+    </incorrectResponses>
+  </assessmentItem>
+  <assessmentItem author="itsa@ehu.es" subject="Azaroa">
+    <itemBody>
+      <p>Noizko da Lab05?</p>
+    </itemBody>
+    <correctResponse>
+      <response>Azaroak 3</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response>Azaroak 4</response>
+      <response>Azaroak 5</response>
+      <response>Azaroak 6</response>
+    </incorrectResponses>
+  </assessmentItem>
+  <assessmentItem author="ane@ehu.es" subject="hola">
+    <itemBody>
+      <p>kaixooo hau proba bat da</p>
+    </itemBody>
+    <correctResponse>
+      <response>asdfj</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response>aksdjf</response>
+      <response>jaslkdf</response>
+      <response>asdf</response>
+    </incorrectResponses>
+  </assessmentItem>
+  <assessmentItem author="igarcia393@ikasle.ehu.eus" subject="asdfsa">
+    <itemBody>
+      <p>asdfasdfsaddfsa</p>
+    </itemBody>
+    <correctResponse>
+      <response>asdf</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response>asdfasdf</response>
+      <response>asdf</response>
+      <response>asdf</response>
+    </incorrectResponses>
+  </assessmentItem>
+  <assessmentItem author="ane@ehu.es" subject="hola">
+    <itemBody>
+      <p>holaaa esto es una prueba</p>
+    </itemBody>
+    <correctResponse>
+      <response>hola</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response>que ta</response>
+      <response>tal </response>
+      <response>bien</response>
+    </incorrectResponses>
+  </assessmentItem>
+  <assessmentItem author="ane@ehu.es" subject="ASDFAS">
+    <itemBody>
+      <p>HOLAAAASDFSADF</p>
+    </itemBody>
+    <correctResponse>
+      <response>ASKJDF&#xD1;LKASJDASDFAS</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response>JSADFLKAS</response>
+      <response>ASDFASDF</response>
+      <response>SADFSADF</response>
+    </incorrectResponses>
+  </assessmentItem>
+  <assessmentItem author="ane@ehu.es" subject="ASDFAS">
+    <itemBody>
+      <p>HOLAAAASDFSADF</p>
+    </itemBody>
+    <correctResponse>
+      <response>ASKJDF&#xD1;LKASJDASDFAS</response>
+    </correctResponse>
+    <incorrectResponses>
+      <response>JSADFLKAS</response>
+      <response>ASDFASDF</response>
+      <response>SADFSADF</response>
+    </incorrectResponses>
+  </assessmentItem>
+</assessmentItems>

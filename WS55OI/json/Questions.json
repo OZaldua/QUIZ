@@ -1,0 +1,157 @@
+{
+    "assessmentItems": [
+        {
+            "subject": "Mikologia",
+            "author": "rosa.arruabarrena@ehu.es",
+            "itemBody": {
+                "p": "Tripakiek zer dute kapela azpian?"
+            },
+            "correctResponse": {
+                "response": "Eztenak"
+            },
+            "incorrectResponses": {
+                "response": [
+                    "Filamenduak",
+                    "Himenioa",
+                    "Hodiak"
+                ]
+            }
+        },
+        {
+            "subject": "GIH\/ODS",
+            "author": "mafalda001@ikasle.ehu.eus",
+            "itemBody": {
+                "p": "Garapen Iraunkorreko Helburu kopurua da: "
+            },
+            "correctResponse": {
+                "response": "17"
+            },
+            "incorrectResponses": {
+                "response": [
+                    "16",
+                    "19",
+                    "18"
+                ]
+            }
+        },
+        {
+            "subject": "hollywood",
+            "author": "ozaldua006@ikasle.ehu.eus",
+            "itemBody": {
+                "p": "Nor da aktore hau?"
+            },
+            "correctResponse": {
+                "response": "Tom Holland"
+            },
+            "incorrectResponse": {
+                "response": [
+                    "Jeremy Irvine",
+                    "Tom Hiddleston",
+                    "Chris Hemsworth"
+                ]
+            }
+        },
+        {
+            "subject": "Azaroa",
+            "author": "itsa@ehu.es",
+            "itemBody": {
+                "p": "Noizko da Lab05?"
+            },
+            "correctResponse": {
+                "response": "Azaroak 3"
+            },
+            "incorrectResponse": {
+                "response": [
+                    "Azaroak 4",
+                    "Azaroak 5",
+                    "Azaroak 6"
+                ]
+            }
+        },
+        {
+            "subject": "hola",
+            "author": "ane@ehu.es",
+            "itemBody": {
+                "p": "kaixooo hau proba bat da"
+            },
+            "correctResponse": {
+                "response": "asdfj"
+            },
+            "incorrectResponse": {
+                "response": [
+                    "aksdjf",
+                    "jaslkdf",
+                    "asdf"
+                ]
+            }
+        },
+        {
+            "subject": "asdfsa",
+            "author": "igarcia393@ikasle.ehu.eus",
+            "itemBody": {
+                "p": "asdfasdfsaddfsa"
+            },
+            "correctResponse": {
+                "response": "asdf"
+            },
+            "incorrectResponse": {
+                "response": [
+                    "asdfasdf",
+                    "asdf",
+                    "asdf"
+                ]
+            }
+        },
+        {
+            "subject": "hola",
+            "author": "ane@ehu.es",
+            "itemBody": {
+                "p": "holaaa esto es una prueba"
+            },
+            "correctResponse": {
+                "response": "hola"
+            },
+            "incorrectResponse": {
+                "response": [
+                    "que ta",
+                    "tal ",
+                    "bien"
+                ]
+            }
+        },
+        {
+            "subject": "ASDFAS",
+            "author": "ane@ehu.es",
+            "itemBody": {
+                "p": "HOLAAAASDFSADF"
+            },
+            "correctResponse": {
+                "response": "ASKJDF\u00d1LKASJDASDFAS"
+            },
+            "incorrectResponse": {
+                "response": [
+                    "JSADFLKAS",
+                    "ASDFASDF",
+                    "SADFSADF"
+                ]
+            }
+        },
+        {
+            "subject": "ASDFAS",
+            "author": "ane@ehu.es",
+            "itemBody": {
+                "p": "HOLAAAASDFSADF"
+            },
+            "correctResponse": {
+                "response": "ASKJDF\u00d1LKASJDASDFAS"
+            },
+            "incorrectResponse": {
+                "response": [
+                    "JSADFLKAS",
+                    "ASDFASDF",
+                    "SADFSADF"
+                ]
+            }
+        }
+    ]
+}
