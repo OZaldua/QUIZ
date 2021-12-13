@@ -11,6 +11,7 @@ if (isset($_GET['code'])) {
 		$_SESSION['eposta']=$email;
 		$_SESSION['erabiltzaile']="ikasle";
 		$_SESSION["id"]= session_id();
+		include 'IncreaseGlobalCounter.php'; //Erabiltzaile kautotu kopurua inkrementatzeko
 		echo "<script>window.location='Layout.php' </script>";
 	}
 }

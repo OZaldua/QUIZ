@@ -20,7 +20,6 @@ if(!isset($_SESSION['eposta'])){
 	<section class="main" id="s1">
 	<div>
 	<?php
-	if(preg_match("/^([a-zA-Z]+[0-9]{3}@ikasle\.ehu\.(eus|es))|([a-zA-Z]+(\.[a-zA-Z]+)?@ehu\.(eus|es))$/", $_POST["egilea"])){
 		if (isset($_POST["zailtasuna"])){
 			if(!empty( $_POST["egilea"]) && !empty($_POST["galdera"]) && !empty($_POST["erantzunZ"]) && !empty($_POST["erantzunO1"]) && !empty($_POST["erantzunO2"]) && !empty($_POST["erantzunO3"]) && !empty($_POST["gaia"])){
 				if(!ctype_space( $_POST["egilea"]) && !ctype_space($_POST["galdera"]) && !ctype_space($_POST["erantzunZ"]) && !ctype_space($_POST["erantzunO1"]) && !ctype_space($_POST["erantzunO2"]) && !ctype_space($_POST["erantzunO3"]) && !ctype_space($_POST["gaia"])){
@@ -120,7 +119,6 @@ if(!isset($_SESSION['eposta'])){
 				} else echo "Ezin dira hutsuneak ipini.";
 			} else echo "Derrigorrezko eremuak bete behar dira";
 		} else echo "Zailtasuna klikatu behar duzu.";
-	} else echo "Eposta ez da zuzena.";
 	?>
     </div>
 	</section>
